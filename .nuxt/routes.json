@@ -1,0 +1,366 @@
+[
+  {
+    "name": "elements",
+    "path": "/elements",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\index.vue",
+    "chunkName": "pages/elements/index",
+    "_name": "_d03ab36c"
+  },
+  {
+    "name": "blog-classic",
+    "path": "/blog/classic",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\blog\\\\classic.vue",
+    "chunkName": "pages/blog/classic",
+    "_name": "_0b3070bf"
+  },
+  {
+    "name": "blog-grid-sidebar",
+    "path": "/blog/grid-sidebar",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\blog\\\\grid-sidebar.vue",
+    "chunkName": "pages/blog/grid-sidebar",
+    "_name": "_71334a78"
+  },
+  {
+    "name": "blog-listing",
+    "path": "/blog/listing",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\blog\\\\listing.vue",
+    "chunkName": "pages/blog/listing",
+    "_name": "_36d1a9b1"
+  },
+  {
+    "name": "blog-masonry-sidebar",
+    "path": "/blog/masonry-sidebar",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\blog\\\\masonry-sidebar.vue",
+    "chunkName": "pages/blog/masonry-sidebar",
+    "_name": "_212d8bfe"
+  },
+  {
+    "name": "elements-accordions",
+    "path": "/elements/accordions",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\accordions.vue",
+    "chunkName": "pages/elements/accordions",
+    "_name": "_61727163"
+  },
+  {
+    "name": "elements-banners",
+    "path": "/elements/banners",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\banners.vue",
+    "chunkName": "pages/elements/banners",
+    "_name": "_afd32c82"
+  },
+  {
+    "name": "elements-blog-posts",
+    "path": "/elements/blog-posts",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\blog-posts.vue",
+    "chunkName": "pages/elements/blog-posts",
+    "_name": "_78bf36c0"
+  },
+  {
+    "name": "elements-buttons",
+    "path": "/elements/buttons",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\buttons.vue",
+    "chunkName": "pages/elements/buttons",
+    "_name": "_9e40550e"
+  },
+  {
+    "name": "elements-categories",
+    "path": "/elements/categories",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\categories.vue",
+    "chunkName": "pages/elements/categories",
+    "_name": "_33f772d4"
+  },
+  {
+    "name": "elements-cta",
+    "path": "/elements/cta",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\cta.vue",
+    "chunkName": "pages/elements/cta",
+    "_name": "_6464aef0"
+  },
+  {
+    "name": "elements-icon-boxes",
+    "path": "/elements/icon-boxes",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\icon-boxes.vue",
+    "chunkName": "pages/elements/icon-boxes",
+    "_name": "_737ef59d"
+  },
+  {
+    "name": "elements-portfolio",
+    "path": "/elements/portfolio",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\portfolio.vue",
+    "chunkName": "pages/elements/portfolio",
+    "_name": "_625f3080"
+  },
+  {
+    "name": "elements-products",
+    "path": "/elements/products",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\products.vue",
+    "chunkName": "pages/elements/products",
+    "_name": "_3d30a21c"
+  },
+  {
+    "name": "elements-tabs",
+    "path": "/elements/tabs",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\tabs.vue",
+    "chunkName": "pages/elements/tabs",
+    "_name": "_2bb51194"
+  },
+  {
+    "name": "elements-testimonials",
+    "path": "/elements/testimonials",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\testimonials.vue",
+    "chunkName": "pages/elements/testimonials",
+    "_name": "_6684ef28"
+  },
+  {
+    "name": "elements-titles",
+    "path": "/elements/titles",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\titles.vue",
+    "chunkName": "pages/elements/titles",
+    "_name": "_5c3c635a"
+  },
+  {
+    "name": "elements-typography",
+    "path": "/elements/typography",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\typography.vue",
+    "chunkName": "pages/elements/typography",
+    "_name": "_de8a3f32"
+  },
+  {
+    "name": "elements-video-banners",
+    "path": "/elements/video-banners",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\elements\\\\video-banners.vue",
+    "chunkName": "pages/elements/video-banners",
+    "_name": "_3d137126"
+  },
+  {
+    "name": "pages-404",
+    "path": "/pages/404",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\pages\\\\404.vue",
+    "chunkName": "pages/pages/404",
+    "_name": "_35bdec16"
+  },
+  {
+    "name": "pages-about",
+    "path": "/pages/about",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\pages\\\\about.vue",
+    "chunkName": "pages/pages/about",
+    "_name": "_25043c8a"
+  },
+  {
+    "name": "pages-about-2",
+    "path": "/pages/about-2",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\pages\\\\about-2.vue",
+    "chunkName": "pages/pages/about-2",
+    "_name": "_215799a2"
+  },
+  {
+    "name": "pages-coming-soon",
+    "path": "/pages/coming-soon",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\pages\\\\coming-soon.vue",
+    "chunkName": "pages/pages/coming-soon",
+    "_name": "_62e87904"
+  },
+  {
+    "name": "pages-contact",
+    "path": "/pages/contact",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\pages\\\\contact.vue",
+    "chunkName": "pages/pages/contact",
+    "_name": "_1137d346"
+  },
+  {
+    "name": "pages-contact-2",
+    "path": "/pages/contact-2",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\pages\\\\contact-2.vue",
+    "chunkName": "pages/pages/contact-2",
+    "_name": "_adb6377c"
+  },
+  {
+    "name": "pages-faq",
+    "path": "/pages/faq",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\pages\\\\faq.vue",
+    "chunkName": "pages/pages/faq",
+    "_name": "_dddca65a"
+  },
+  {
+    "name": "pages-login",
+    "path": "/pages/login",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\pages\\\\login.vue",
+    "chunkName": "pages/pages/login",
+    "_name": "_0e63ba66"
+  },
+  {
+    "name": "shop-cart",
+    "path": "/shop/cart",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\shop\\\\cart.vue",
+    "chunkName": "pages/shop/cart",
+    "_name": "_58dda197"
+  },
+  {
+    "name": "shop-checkout",
+    "path": "/shop/checkout",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\shop\\\\checkout.vue",
+    "chunkName": "pages/shop/checkout",
+    "_name": "_ae942d86"
+  },
+  {
+    "name": "shop-dashboard",
+    "path": "/shop/dashboard",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\shop\\\\dashboard.vue",
+    "chunkName": "pages/shop/dashboard",
+    "_name": "_90ac7aa6"
+  },
+  {
+    "name": "shop-market",
+    "path": "/shop/market",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\shop\\\\market.vue",
+    "chunkName": "pages/shop/market",
+    "_name": "_b73f5e1a"
+  },
+  {
+    "name": "shop-wishlist",
+    "path": "/shop/wishlist",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\shop\\\\wishlist.vue",
+    "chunkName": "pages/shop/wishlist",
+    "_name": "_3fe7fa3c"
+  },
+  {
+    "name": "blog-mask-grid",
+    "path": "/blog/mask/grid",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\blog\\\\mask\\\\grid.vue",
+    "chunkName": "pages/blog/mask/grid",
+    "_name": "_a85638d6"
+  },
+  {
+    "name": "blog-mask-masonry",
+    "path": "/blog/mask/masonry",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\blog\\\\mask\\\\masonry.vue",
+    "chunkName": "pages/blog/mask/masonry",
+    "_name": "_185d0374"
+  },
+  {
+    "name": "shop-category-boxed",
+    "path": "/shop/category/boxed",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\shop\\\\category\\\\boxed.vue",
+    "chunkName": "pages/shop/category/boxed",
+    "_name": "_51fcf8c5"
+  },
+  {
+    "name": "shop-category-fullwidth",
+    "path": "/shop/category/fullwidth",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\shop\\\\category\\\\fullwidth.vue",
+    "chunkName": "pages/shop/category/fullwidth",
+    "_name": "_796e49b2"
+  },
+  {
+    "name": "blog-single-default-slug",
+    "path": "/blog/single/default/:slug?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\blog\\\\single\\\\default\\\\_slug.vue",
+    "chunkName": "pages/blog/single/default/_slug",
+    "_name": "_6f43cd54"
+  },
+  {
+    "name": "blog-single-fullwidth-slug",
+    "path": "/blog/single/fullwidth/:slug?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\blog\\\\single\\\\fullwidth\\\\_slug.vue",
+    "chunkName": "pages/blog/single/fullwidth/_slug",
+    "_name": "_32a94c7e"
+  },
+  {
+    "name": "blog-single-sidebar-slug",
+    "path": "/blog/single/sidebar/:slug?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\blog\\\\single\\\\sidebar\\\\_slug.vue",
+    "chunkName": "pages/blog/single/sidebar/_slug",
+    "_name": "_6f722d4e"
+  },
+  {
+    "name": "blog-grid-type",
+    "path": "/blog/grid/:type?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\blog\\\\grid\\\\_type.vue",
+    "chunkName": "pages/blog/grid/_type",
+    "_name": "_80727880"
+  },
+  {
+    "name": "blog-masonry-type",
+    "path": "/blog/masonry/:type?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\blog\\\\masonry\\\\_type.vue",
+    "chunkName": "pages/blog/masonry/_type",
+    "_name": "_60c03f17"
+  },
+  {
+    "name": "product-centered-slug",
+    "path": "/product/centered/:slug?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\product\\\\centered\\\\_slug.vue",
+    "chunkName": "pages/product/centered/_slug",
+    "_name": "_aa0d14f0"
+  },
+  {
+    "name": "product-default-slug",
+    "path": "/product/default/:slug?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\product\\\\default\\\\_slug.vue",
+    "chunkName": "pages/product/default/_slug",
+    "_name": "_58bfbd32"
+  },
+  {
+    "name": "product-extended-slug",
+    "path": "/product/extended/:slug?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\product\\\\extended\\\\_slug.vue",
+    "chunkName": "pages/product/extended/_slug",
+    "_name": "_5826eae3"
+  },
+  {
+    "name": "product-fullwidth-slug",
+    "path": "/product/fullwidth/:slug?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\product\\\\fullwidth\\\\_slug.vue",
+    "chunkName": "pages/product/fullwidth/_slug",
+    "_name": "_1d7e305e"
+  },
+  {
+    "name": "product-gallery-slug",
+    "path": "/product/gallery/:slug?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\product\\\\gallery\\\\_slug.vue",
+    "chunkName": "pages/product/gallery/_slug",
+    "_name": "_b7964894"
+  },
+  {
+    "name": "product-masonry-slug",
+    "path": "/product/masonry/:slug?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\product\\\\masonry\\\\_slug.vue",
+    "chunkName": "pages/product/masonry/_slug",
+    "_name": "_68fb8ee3"
+  },
+  {
+    "name": "product-sidebar-slug",
+    "path": "/product/sidebar/:slug?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\product\\\\sidebar\\\\_slug.vue",
+    "chunkName": "pages/product/sidebar/_slug",
+    "_name": "_2ca33d6c"
+  },
+  {
+    "name": "product-sticky-slug",
+    "path": "/product/sticky/:slug?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\product\\\\sticky\\\\_slug.vue",
+    "chunkName": "pages/product/sticky/_slug",
+    "_name": "_2bdcd29a"
+  },
+  {
+    "name": "shop-nosidebar-type",
+    "path": "/shop/nosidebar/:type?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\shop\\\\nosidebar\\\\_type.vue",
+    "chunkName": "pages/shop/nosidebar/_type",
+    "_name": "_42ad5ab5"
+  },
+  {
+    "name": "shop-sidebar-type",
+    "path": "/shop/sidebar/:type?",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\shop\\\\sidebar\\\\_type.vue",
+    "chunkName": "pages/shop/sidebar/_type",
+    "_name": "_291ca6f4"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Ahmed\\\\Desktop\\\\Demo-14\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_51b41be1"
+  }
+]
